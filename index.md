@@ -18,14 +18,6 @@ Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mitt
 
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
 
-### Anmeldung zum nächsten Stammtischtermin
-
-Details findest Du auf unserer [SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
-
-Wir freuen uns über neue Gesichter... also einfach beim nächsten Termin mal vorbeischauen.
-
-We are open for any non-german-speaking guests, too! Come and join us.
-
 ### Aktuelles - Nächstes Treffen
  
 > Termin:
@@ -33,13 +25,17 @@ We are open for any non-german-speaking guests, too! Come and join us.
 tbd ab 20 Uhr  
 [Anmeldedetails](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
 
-> SAP Inside Track
+### SAP Inside Track
 
 Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ruhrpott](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Ruhrpott%2C+June+6th+2020%2C+%23sitPOTT+-+CANCELLED) und sind auch mit dabei
 
 ### Ressourcen-Archiv
 
-tbd
+#### SAP Inside Track 2019
+
+- Samstag, 25.05.2019 SAP Inside Track RuhrPOTT in Essen  
+  Unterlagen: https://wiki.scn.sap.com/wiki/x/KwBQHg  
+  Live Recordings: YouTube Channel [SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)
 
 ### Archiv Bisherige Stammtisch Treffen
 
