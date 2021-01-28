@@ -49,6 +49,7 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 - Dienstag, 10.03.2020 ab 19h (Hövels Brauerei)
 - Mittwoch, 19.02.2020 ab 19h (Hövels Brauerei)
 - Dienstag, 14.01.2020 ab 19h (Hövels Brauerei)
+
 #### 2019
 - Mittwoch, 11.12.2019 ab 19h
 - Dienstag, 12.11.2019 ab 19h
@@ -60,6 +61,7 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 - Mittwoch, 10.04.2019 ab 19h
 - Dienstag, 12.03.2019 ab 19h
 - Dienstag, 19.01.2019 ab 19h
+
 #### 2018
 - Mittwoch, 13.12.2018 ab 19h
 - Dienstag, 13.11.2018 ab 19h
@@ -71,6 +73,7 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 - Dienstag, 13.03.2018 ab 19h
 - Dienstag, 13.02.2018 ab 19h
 - Dienstag, 16.01.2018 ab 19h
+
 #### 2017
 - Dienstag, 12.12.2017 ab 19h
 - Dienstag, 17.11.2017 ab 19h
