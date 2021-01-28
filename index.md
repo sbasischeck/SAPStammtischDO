@@ -4,7 +4,7 @@
 
 Treffen der SAP Community aus Dortmund und Umgebung
 
-[SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
+[SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund) sowie [Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)
 
 ### UPDATE
 
